@@ -8,4 +8,4 @@ alt + 마우스훨조정 --> 화면크기 조절
 
 <img src="https://tjghwns93.github.io/img/ph.png" width="400">
 
-[더 북](https:https://thebook.io/)
+[더 북](https://thebook.io/)
